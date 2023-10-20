@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472109585335",
+    "project_id": "spikeview-1aeff",
+    "storage_bucket": "spikeview-1aeff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472109585335:android:e789586c7c9ec9b6374e32",
+        "android_client_info": {
+          "package_name": "com.spikeview.spikeviewproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tp-UNEvflYU7m00zq14bV0MdHZxlNjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
